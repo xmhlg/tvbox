@@ -5,89 +5,61 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 #EXTINF:-1 tvg-name="东森财经新闻" group-title="YouTube「P」",东森财经新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
-#EXTINF:-1 tvg-name="运通财经F运通" group-title="YouTube「P」",运通财经
+#EXTINF:-1 tvg-name="运通财经F运通" group-title="YouTube「P」",MOMO1
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
-#EXTINF:-1 tvg-name="运通财经" group-title="YouTube「P」",运通财经
+#EXTINF:-1 tvg-name="运通财经" group-title="YouTube「P」",信大
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
-#EXTINF:-1 tvg-name="运通财经F" group-title="YouTube「P」",运通财经
+#EXTINF:-1 tvg-name="运通财经F" group-title="YouTube「P」",DW
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
-#EXTINF:-1 tvg-name="信大" group-title="YouTube「P」",信大
+#EXTINF:-1 tvg-name="信大" group-title="YouTube「P」",中视
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
-#EXTINF:-1 tvg-name="DW" group-title="YouTube「P」",DW NEWS
+#EXTINF:-1 tvg-name="DW" group-title="YouTube「P」",印度台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
-#EXTINF:-1 tvg-name="中视新闻" group-title="YouTube「P」",中视新闻
+#EXTINF:-1 tvg-name="中视新闻" group-title="YouTube「P」",民视
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
-#EXTINF:-1 tvg-name="K-POP" group-title="YouTube「P」",K-POP
+#EXTINF:-1 tvg-name="K-POP" group-title="YouTube「P」",东森购物
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV10.m3u8
-#EXTINF:-1 tvg-name="K-POP" group-title="YouTube「P」",K-POP
+#EXTINF:-1 tvg-name="K-POP" group-title="YouTube「P」",HUBER TURK
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV11.m3u8
-#EXTINF:-1 tvg-name="K-POP" group-title="YouTube「P」",K-POP
+#EXTINF:-1 tvg-name="K-POP" group-title="YouTube「P」",ABC NEWS
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
-#EXTINF:-1 tvg-name="K-POP" group-title="YouTube「P」",K-POP
+#EXTINF:-1 tvg-name="K-POP" group-title="YouTube「P」",台视新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
-#EXTINF:-1 tvg-name="K-POP" group-title="YouTube「P」",K-POP
+#EXTINF:-1 tvg-name="K-POP" group-title="YouTube「P」",天才冲冲冲
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV14.m3u8
-#EXTINF:-1 tvg-name="K-POP" group-title="YouTube「P」",K-POP
+#EXTINF:-1 tvg-name="K-POP" group-title="YouTube「P」",ASTRO AWNNI
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
-#EXTINF:-1 tvg-name="K-POP" group-title="YouTube「P」",K-POP
+#EXTINF:-1 tvg-name="K-POP" group-title="YouTube「P」",中天新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
-#EXTINF:-1 tvg-name="民视新闻" group-title="YouTube「P」",民视新闻
+#EXTINF:-1 tvg-name="民视新闻" group-title="YouTube「P」",东京涩谷
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-#EXTINF:-1 tvg-name="CCTV4" group-title="YouTube「P」",CCTV4中文国际
+#EXTINF:-1 tvg-name="CCTV4" group-title="YouTube「P」",大爱
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
-#EXTINF:-1 tvg-name="CCTV4" group-title="YouTube「P」",CCTV4中文国际
+#EXTINF:-1 tvg-name="CCTV4" group-title="YouTube「P」",TVBS NEWS
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
-#EXTINF:-1 tvg-name="CCTV4" group-title="YouTube「P」",CCTV4中文国际
+#EXTINF:-1 tvg-name="CCTV4" group-title="YouTube「P」",LIVE三立
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯" group-title="YouTube「P」",凤凰资讯
+#EXTINF:-1 tvg-name="凤凰资讯" group-title="YouTube「P」",CBN NEWS
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV21.m3u8
-#EXTINF:-1 tvg-name="CCTV4" group-title="YouTube「P」",CCTV4中文国际
+#EXTINF:-1 tvg-name="CCTV4" group-title="YouTube「P」",INDIA TODAY
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
-#EXTINF:-1 tvg-name="CCTV4" group-title="YouTube「P」",CCTV4中文国际
+#EXTINF:-1 tvg-name="CCTV4" group-title="YouTube「P」",FRANCE 24
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
-#EXTINF:-1 tvg-name="ABCNEWS" group-title="YouTube「P」",ABC NEWS
+#EXTINF:-1 tvg-name="ABCNEWS" group-title="YouTube「P」",NBC NEWS
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
-#EXTINF:-1 tvg-name="台视新闻" group-title="YouTube「P」",台视新闻
+#EXTINF:-1 tvg-name="台视新闻" group-title="YouTube「P」",凤凰中文
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
-#EXTINF:-1 tvg-name="天才冲冲冲" group-title="YouTube「P」",天才冲冲冲「综艺」
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
-#EXTINF:-1 tvg-name="ASTROAWANI" group-title="YouTube「P」",ASTRO AWANI
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV27.m3u8
-#EXTINF:-1 tvg-name="中天新闻" group-title="YouTube「P」",中天新闻
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-#EXTINF:-1 group-title="YouTube「P」",Tokyo Shibuya「东京涩谷」
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
-#EXTINF:-1 tvg-name="大爱" group-title="YouTube「P」",大爱
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
-#EXTINF:-1 tvg-name="TVBS新闻" group-title="YouTube「P」",TVBS网路新闻
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
-#EXTINF:-1 tvg-name="三立NEWS+" group-title="YouTube「P」",三立NEWS+
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-#EXTINF:-1 tvg-name="CBNNEWS" group-title="YouTube「P」",CBN NEWS
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
-#EXTINF:-1 tvg-name="CCTV4" group-title="YouTube「P」",CCTV4中文国际
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
-#EXTINF:-1 tvg-name="CCTV4" group-title="YouTube「P」",CCTV4中文国际
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
-#EXTINF:-1 tvg-name="INDIATODAY" group-title="YouTube「P」",INDIA TODAY
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
-#EXTINF:-1 tvg-name="CCTV4" group-title="YouTube「P」",CCTV4中文国际
+#EXTINF:-1 tvg-name="CCTV4" group-title="YouTube「P」",KANSNI NEWS
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV37.m3u8
-#EXTINF:-1 tvg-name="FRANCE24" group-title="YouTube「P」",FRANCE 24
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
-#EXTINF:-1 tvg-name="NBCNEWS" group-title="YouTube「P」",NBC NEWS
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
-#EXTINF:-1 tvg-name="CCTV4" group-title="YouTube「P」",CCTV4中文国际
+#EXTINF:-1 tvg-name="CCTV4" group-title="YouTube「P」",动画1
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV40.m3u8
-#EXTINF:-1 tvg-name="CCTV4" group-title="YouTube「P」",CCTV4中文国际
+#EXTINF:-1 tvg-name="CCTV4" group-title="YouTube「P」",动画2
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
-#EXTINF:-1 tvg-name="CCTV4" group-title="YouTube「P」",CCTV4中文国际
+#EXTINF:-1 tvg-name="CCTV4" group-title="YouTube「P」",儿童歌曲1
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" group-title="YouTube「P」",凤凰中文
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
-#EXTINF:-1 tvg-name="CCTV4" group-title="YouTube「P」",CCTV4中文国际
+#EXTINF:-1 tvg-name="CCTV4" group-title="YouTube「P」",MNEWS镜新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV44.m3u8
-#EXTINF:-1 tvg-name="TBSNEWS" group-title="YouTube「P」",TBS NEWS
+#EXTINF:-1 tvg-name="TBSNEWS" group-title="YouTube「P」",TAIWANG+
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
 #EXTINF:-1 tvg-name="CCTV4" group-title="YouTube「P」",CCTV4中文国际
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV46.m3u8
