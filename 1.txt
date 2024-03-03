@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-name="CCTV4" group-title="YouTube「P」",CCTV4中文国际
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV46.m3u8
 #EXTINF:-1 tvg-name="大爱2" group-title="YouTube「P」",大爱2
